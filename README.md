@@ -37,3 +37,4 @@ I2C simplifies LCD wiring using only two Arduino pins (SDA - A4, SCL - A5).
 
 *OUTPUT*
 
+https://github.com/user-attachments/assets/73b71c9f-7fdf-4f67-b66f-8eef0477121d
