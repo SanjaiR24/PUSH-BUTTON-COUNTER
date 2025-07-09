@@ -26,7 +26,9 @@ This task demonstrates the use of digital inputs, I2C communication, and display
 
     10kΩ Resistor
 
-    Breadboard and jumper wires
+    LCD Display with I2C
+
+    Breadboard and Jumper wires
 
 *WORKING PRINCIPLE*:
 
