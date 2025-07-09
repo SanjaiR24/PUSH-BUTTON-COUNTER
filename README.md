@@ -34,3 +34,6 @@ The push button is connected to digital pin 13 with an external pull-down resist
 On button press, the pin goes HIGH. The ezButton library detects this press (on falling edge).
 The press count is stored and updated in real-time on the I2C LCD display.
 I2C simplifies LCD wiring using only two Arduino pins (SDA - A4, SCL - A5).
+
+*OUTPUT*
+
